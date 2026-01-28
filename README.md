@@ -367,8 +367,6 @@ We use **Spectral Energy Concentration** to verify validity.
 > **Conclusion:** Our validation shows that retaining only low-frequency components (>4h period) preserves **~96.5%** of the total signal energy. This mathematically proves that the discarded high-frequency components are indeed "low-energy noise" rather than useful traffic information.
 
 ---
-
-
 ### 📂 Project Structure
 
 We follow a minimalist structure to ensure immediate reproducibility. The analysis is divided into two core phases: **Statistical Profiling** and **Signal Processing**.
@@ -385,6 +383,3 @@ PeMS-Analysis/
 |
 ├── requirements.txt                      
 └── README.md                             
-
-
-
